@@ -20,5 +20,9 @@ Plug 'mvargasmoran/vimconflive2021-colorscheme' " or other package manager
 
 ### Author
 shameless plug/segway
+
+🥳
+
 https://github.com/mvargasmoran/
+
 
