@@ -4,7 +4,7 @@ _From the Vimconf live site_
 Check out the site, and join in the fun
 https://www.vimconf.live/
 
-![Vimconf live 2021](img/logo.png)
+![Vimconf live 2021](img/logo-small.png)
 
 ## Warning
 This is still in development
