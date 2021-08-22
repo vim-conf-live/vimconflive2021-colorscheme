@@ -12,4 +12,4 @@ This is still in development
 
 # Installation
 ```VimL
-Plug 'mvargasmoran/shadows-die-twice-vim' " or other package manager
+Plug 'mvargasmoran/vimconflive2021-colorscheme' " or other package manager
