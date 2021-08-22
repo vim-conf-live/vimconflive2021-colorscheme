@@ -11,7 +11,7 @@ This is still in development
 
 ## Installation
 ```VimL
-Plug 'mvargasmoran/vimconflive2021-colorscheme' " or other package manager
+Plug 'vim-conf-live/vimconflive2021-colorscheme' " or other package manager
 ```
 ## Look & Feel
 
