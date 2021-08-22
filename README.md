@@ -14,7 +14,7 @@ This is still in development
 Plug 'vim-conf-live/vimconflive2021-colorscheme' " or other package manager
 ...
 
-colorscheme shadows-die-twice
+colorscheme vimconflive-2021
 
 ```
 ## Look & Feel
