@@ -12,6 +12,10 @@ This is still in development
 ## Installation
 ```VimL
 Plug 'vim-conf-live/vimconflive2021-colorscheme' " or other package manager
+...
+
+colorscheme shadows-die-twice
+
 ```
 ## Look & Feel
 
