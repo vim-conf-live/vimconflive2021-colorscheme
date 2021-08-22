@@ -1,15 +1,24 @@
-### A colorscheme to celebrate Vimconf live 2021
+# A colorscheme to celebrate Vimconf live 2021
 _From the Vimconf live site_
 
+Check out the site, and join in the fun
 https://www.vimconf.live/
 
+![Vimconf live 2021](img/logo.png)
 
-
-![Vimconf live 2021](looks.png)
-
-# Warning
+## Warning
 This is still in development
 
-# Installation
+## Installation
 ```VimL
 Plug 'mvargasmoran/vimconflive2021-colorscheme' " or other package manager
+```
+## Look & Feel
+
+![Vimconf live 2021](img/looks.png)
+
+
+### Author
+shameless plug/segway
+https://github.com/mvargasmoran/
+
