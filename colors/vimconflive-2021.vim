@@ -3,6 +3,11 @@ syntax reset
 let g:colors_name = "vimconflive-2021"
 set background=dark
 set t_Co=256
+
+if (has("termguicolors"))
+    set termguicolors
+endif
+
 hi Normal guifg=#e0e0e0 ctermbg=NONE guibg=#111827 gui=NONE
 
 hi DiffText guifg=#ee6e16 guibg=NONE
